@@ -3,12 +3,12 @@
 #include "addons/TokenHelper.h"
 #include "addons/RTDBHelper.h"
 
-#define WIFI_SSID "rl05"
-#define WIFI_PASSWORD "aaaaaaaa"
-#define API_KEY "AIzaSyD8tcXyA0qKaUPClM8IlGnD-_WaT1yYS3c"
-#define DATABASE_URL "https://breast-milk-volume-default-rtdb.firebaseio.com/" 
-#define USER_EMAIL "linrally@gmail.com"
-#define USER_PASSWORD "aaaaaaaa"
+#define WIFI_SSID ""
+#define WIFI_PASSWORD ""
+#define API_KEY ""
+#define DATABASE_URL "" 
+#define USER_EMAIL ""
+#define USER_PASSWORD ""
 
 FirebaseData fbdo;
 FirebaseAuth auth;
